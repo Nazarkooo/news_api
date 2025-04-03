@@ -18,7 +18,7 @@
 
 ### 1️⃣ Clone the Repository & Install Dependencies  
 ```bash
-git clone https://github.com/[my_repo]/news_api
+git clone https://github.com/Nazarkooo/news_api.git
 cd news_api
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
